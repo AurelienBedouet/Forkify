@@ -2,6 +2,7 @@
 
 ### Final project of the course "The Complete JavaScript Course 2022: From Zero to Expert!" of Jonas Schmedtmann on Udemy.
 Course link: https://www.udemy.com/course/the-complete-javascript-course/
+Live Demo: https://forkify.aurelien-bedouet.com/
 
 When i started to be more serious about JavaScript i searched for the best online course i could find and i chose this one.
 
